@@ -1,0 +1,27 @@
+{
+  "name": "rethinkdb-store",
+  "version": "0.1.0",
+  "description": "A high level nodejs library for accessing rethinkdb data.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HoMuChen/rethinkdb-store.git"
+  },
+  "keywords": [
+    "rethinkdb",
+    "nodejs",
+    "datastore"
+  ],
+  "author": "HoMuChen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HoMuChen/rethinkdb-store/issues"
+  },
+  "homepage": "https://github.com/HoMuChen/rethinkdb-store#readme",
+  "dependencies": {
+    "rethinkdb": "^2.3.3"
+  }
+}
